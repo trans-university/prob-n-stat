@@ -4,26 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6fc1ea2c9a1c9e8a",
+        "id": "28c6360d9e5961a8",
         "type": "tabs",
         "children": [
           {
-            "id": "53f1c4334e948468",
+            "id": "736b443bf6683eb9",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-08 15.37.24.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "35e39e93ac09a37f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-09-08 15.37.24.excalidraw.md"
+                "file": "Excalidraw/my first excalidraw note.md"
               }
             }
           }
@@ -93,7 +83,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Excalidraw/Drawing 2024-09-08 15.37.24.excalidraw.md",
+            "file": "Excalidraw/my first excalidraw note.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -110,7 +100,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Excalidraw/Drawing 2024-09-08 15.37.24.excalidraw.md",
+            "file": "Excalidraw/my first excalidraw note.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -122,7 +112,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Excalidraw/Drawing 2024-09-08 15.37.24.excalidraw.md"
+            "file": "Excalidraw/my first excalidraw note.md"
           }
         }
       }
@@ -141,12 +131,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "53f1c4334e948468",
+  "active": "736b443bf6683eb9",
   "lastOpenFiles": [
-    "README.md",
-    "Excalidraw/Drawing 2024-09-08 15.37.24.excalidraw.md",
-    "Excalidraw",
+    "Pasted Image 20240922203422_002.jpg",
+    "Excalidraw/Drawing 2024-09-18 22.30.15.excalidraw.md",
     "handwritten-notes/pdf test.pdf",
+    "README.md",
+    "Excalidraw/my first excalidraw note.md",
+    "Excalidraw/Drawing 2024-09-18 22.30.29.excalidraw.md",
+    "Excalidraw",
     "Untitled.md",
     "Untitled.canvas",
     "handwritten-notes",
