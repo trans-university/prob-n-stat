@@ -11,13 +11,28 @@
             "id": "dd56e0a0ed8172c9",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/my first excalidraw note.md"
+                "file": "Excalidraw/my first excalidraw note.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d76fefb64b0dae8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Excalidraw/my first excalidraw note.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -145,11 +160,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dd56e0a0ed8172c9",
+  "active": "d76fefb64b0dae8d",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2024-09-18 22.30.29.excalidraw.md",
-    "Excalidraw/Drawing 2024-09-18 22.30.15.excalidraw.md",
     "Excalidraw/my first excalidraw note.md",
+    "conflict-files-obsidian-git.md",
+    "Excalidraw/Drawing 2024-09-18 22.30.15.excalidraw.md",
     "handwritten-notes/pdf test.pdf",
     "README.md",
     "Pasted Image 20240922203422_002.jpg",
